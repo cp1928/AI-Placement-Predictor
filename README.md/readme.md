@@ -144,3 +144,6 @@ Predictions are based on the trained ML model and scaled inputs.
 • Deploy app on Streamlit Cloud
 • Add user authentication
 • Collect real-world data
+
+Note:
+The dataset’s communication score ranges from 0 to 100, while the app accepts input from 0 to 10. To match the input format, we normalize the communication score by dividing it by 10 during preprocessing before training and prediction.
