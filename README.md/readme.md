@@ -126,6 +126,8 @@ http://localhost:8501
 Predictions are based on the trained ML model and scaled inputs.
 
 
+![AI Placement Predictor Demo](assets/demo.png)
+
 🛠️ Technologies Used
 
 • Python
